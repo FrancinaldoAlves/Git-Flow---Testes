@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: rgba(255, 255, 255, 0.663);
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(image.png);
+    background-size: cover;       
+    background-repeat: no-repeat; 
+}
+
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 60px;
+    border-radius: 0.5rem;
+}
