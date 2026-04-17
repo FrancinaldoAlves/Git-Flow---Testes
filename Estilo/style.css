@@ -31,3 +31,9 @@ button {
     width: 60px;
     border-radius: 0.5rem;
 }
+
+.cadastroeFoto {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
